@@ -4,6 +4,11 @@ This repository covers various data analysis and prediction techniques on the re
 
 [![Github repo size](https://img.shields.io/github/languages/code-size/adarshjoshy/Red-Wine-Quality-Analysis)](https://github.com/adarshjoshy/Red-Wine-Quality-Analysis)
 [![GitHub top language](https://img.shields.io/github/languages/top/adarshjoshy/Red-Wine-Quality-Analysis?color=green)](https://github.com/adarshjoshy/Red-Wine-Quality-Analysis)
+[![GitHub](https://img.shields.io/github/license/adarshjoshy/Red-Wine-Quality-Analysis)](https://github.com/adarshjoshy/Red-Wine-Quality-Analysis)
+
+### Instructions
+The data analysis and model training were done using `Jupyter Notebook`.<br>
+<b>source: </b>https://jupyter.org/install
 
 ### Analyisis and Prediction Techniques of Part 1
 - Exploratory Data Analysis
